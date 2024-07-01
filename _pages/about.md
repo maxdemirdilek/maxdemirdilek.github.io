@@ -14,7 +14,7 @@ profile:
     <p>Bundesstrasse 55</p><br>
     <p>D-20146 Hamburg</p><br>
     <p>Raum 432</p><br>
-    <p>[first name].[last name] (at) web.de</p> 
+    <p>[firstname].[lastname] (at) web.de</p> 
                
 news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
