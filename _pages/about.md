@@ -2,7 +2,7 @@
 layout: about
 title: Home
 permalink: /
-# subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+#subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
@@ -24,4 +24,4 @@ I am a master's student in mathematics at the University of Hamburg. I am writin
 
 My mathematical research interests are in quantum algebra, quantum topology and in applications of higher category theory to representation theory.
 
-# My [CV](assets/pdf/Demirdilek_CV.pdf).
+#My [CV](assets/pdf/Demirdilek_CV.pdf).
