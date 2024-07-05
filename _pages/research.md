@@ -10,7 +10,7 @@ horizontal: false
 
 I am currently updating this section.
 
-<!-- pages/projects.md -->
+<!-- pages/research.md -->
 <div class="projects">
 {% if site.enable_project_categories and page.display_categories %}
   <!-- Display categorized projects -->
