@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Research
 permalink: /projects/
 #description: Materials for courses you taught. Replace this text with your description.
