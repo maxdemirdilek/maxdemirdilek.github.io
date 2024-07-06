@@ -2,7 +2,7 @@
 layout: page
 title: Theses
 #description: Here you can download my theses.
-img: assets/img/sequent.jpg
+img: assets/img/sequent.jpeg
 importance: 1
 category: work
 related_publications: false
