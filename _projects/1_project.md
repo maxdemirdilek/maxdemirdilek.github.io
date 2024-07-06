@@ -1,7 +1,7 @@
 ---
 layout: page
-title: B.Sc. thesis
-description: "Strong linearly distributive categories are shift-monoidal"
+title: Theses
+description: Here you can download my theses.
 img: assets/img/12.jpg
 importance: 1
 category: work
