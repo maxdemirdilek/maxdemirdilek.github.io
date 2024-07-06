@@ -8,4 +8,4 @@ category: work
 related_publications: false
 ---
 
-My [<ins> bachelor's thesis </ins>]([https://drive.google.com/file/d/17QIKps0OnbwzRlu7C1k9aZtoXWl01iY5/view?usp=sharing](https://drive.google.com/file/d/13EyI9eTgfvTnlHWxnKYQZ2IcJ5FZeQFS/view?usp=sharing)).
+My [<ins> bachelor's thesis </ins>](https://drive.google.com/file/d/13EyI9eTgfvTnlHWxnKYQZ2IcJ5FZeQFS/view?usp=sharing).
