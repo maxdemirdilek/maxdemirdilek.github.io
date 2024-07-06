@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Homotopy.io
-description: Surface diagrams for LD-categories
+title: Surface diagrams
+description:LD-categories in the proof assistant homotopy.io
 #img: assets/img/distributor.png
 importance: 2
 category: work
