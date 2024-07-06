@@ -8,4 +8,4 @@ category: work
 related_publications: false
 ---
 
-My [<ins> bachelor's thesis </ins>](assets/pdf/Demirdilek_BScThesis.pdf).
+My [<ins> bachelor's thesis </ins>](https://drive.google.com/file/d/17QIKps0OnbwzRlu7C1k9aZtoXWl01iY5/view?usp=sharing).
