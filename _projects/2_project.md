@@ -2,7 +2,7 @@
 layout: page
 title: Homotopy.io files
 description: Surface diagrams for linearly distributive categories
-#img: assets/img/12.jpg
+img: assets/img/distributor.png
 importance: 2
 category: work
 related_publications: false
