@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Surface diagrams for linearly distributive categories
-description: Homotopy.io files
+title: Homotopy.io files
+description: Surface diagrams for linearly distributive categories
 #img: assets/img/12.jpg
-importance: 1
+importance: 2
 category: work
 related_publications: false
 ---
