@@ -5,8 +5,8 @@ permalink: /projects/
 #description: Materials for courses you taught. Replace this text with your description.
 nav: true
 nav_order: 3
-horizontal: false
 display_categories: [work, fun]
+horizontal: false
 ---
 
 I am currently updating this section.
