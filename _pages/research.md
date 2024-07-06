@@ -1,16 +1,17 @@
 ---
 layout: page
-permalink: /Research/
 title: Research
+permalink: /Research/
 #description: Materials for courses you taught. Replace this text with your description.
 nav: true
-nav_order: 6
+nav_order: 3
 horizontal: false
+display_categories: [work, fun]
 ---
 
 I am currently updating this section.
 
-<!-- pages/research.md -->
+<!-- pages/projects.md -->
 <div class="projects">
 {% if site.enable_project_categories and page.display_categories %}
   <!-- Display categorized projects -->
