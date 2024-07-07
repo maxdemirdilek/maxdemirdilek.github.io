@@ -20,8 +20,7 @@ My mathematical research interests are in algebra, quantum topology and in appli
 
 My [<ins> CV</ins>](assets/pdf/Demirdilek_CV.pdf).
 
-<h6><b>Contact information</b></h6>
->
+<h6><span class="font-weight-bold">Contact information</span></h6>
     <p>Universität Hamburg</p><br>
     <p>Fachbereich Mathematik</p><br>
     <p>Bundesstrasse 55</p><br>
