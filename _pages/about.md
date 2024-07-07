@@ -8,13 +8,7 @@ profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>Universität Hamburg</p><br>
-    <p>Fachbereich Mathematik</p><br>
-    <p>Bundesstrasse 55</p><br>
-    <p>D-20146 Hamburg</p><br>
-    <p>Raum 432</p><br>
-    <p>max.demirdilek (at) web.de</p> 
+  more_info: 
                
 news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
