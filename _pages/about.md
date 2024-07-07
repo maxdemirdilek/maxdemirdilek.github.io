@@ -19,3 +19,12 @@ I am a master's student in mathematics at the University of Hamburg. I am writin
 My mathematical research interests are in algebra, quantum topology and in applications of higher category theory to representation theory.
 
 My [<ins> CV</ins>](assets/pdf/Demirdilek_CV.pdf).
+
+<h6><b>Contact information</b></h6>
+>
+    <p>Universität Hamburg</p><br>
+    <p>Fachbereich Mathematik</p><br>
+    <p>Bundesstrasse 55</p><br>
+    <p>D-20146 Hamburg</p><br>
+    <p>Raum 432</p><br>
+    <p>max.demirdilek (at) web.de</p>
