@@ -11,11 +11,11 @@ horizontal: false
 
 I am currently updating this section.
 
-<h5><b>Overview</b></h5>
+<h6><span class="font-weight-bold">Overview</span></h6>
 In the last two years, I have mainly been working on Grothendieck-Verdier categories. These are monoidal categories with a duality structure that is more general than rigidity. My main motivation in studying Grothendieck-Verdier categories has been their occurrence as representation categories of vertex operator algebras to which the Huang-Lepowsky-Zhang theory of tensor products applies.
 
-<h5><b>Theses</b></h5>
+<h6><b>Theses</b></h6>
 - My [<ins> bachelor's thesis </ins>](https://drive.google.com/file/d/13EyI9eTgfvTnlHWxnKYQZ2IcJ5FZeQFS/view?usp=sharing).
 
-<h5><b>Surface diagrams for Grothendieck-Verdier categories</b></h5>
+<h6><b>Surface diagrams for Grothendieck-Verdier categories</b></h6>
 I am currently updating this section.
