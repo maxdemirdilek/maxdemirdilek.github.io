@@ -27,4 +27,4 @@ Fachbereich Mathematik\
 Bundesstrasse 55\
 D-20146 Hamburg\
 Raum 432\
-max.demirdilek (at) web.de
+max (dot) demirdilek (at) web.de
