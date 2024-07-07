@@ -22,9 +22,9 @@ My [<ins> CV</ins>](assets/pdf/Demirdilek_CV.pdf).
 
 <h6><span class="font-weight-bold">Contact information</span></h6>
 
-Universität Hamburg
-Fachbereich Mathematik
-Bundesstrasse 55
-D-20146 Hamburg
-Raum 432
+Universität Hamburg\
+Fachbereich Mathematik\
+Bundesstrasse 55\
+D-20146 Hamburg\
+Raum 432\
 max.demirdilek (at) web.de
