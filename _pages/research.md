@@ -18,6 +18,6 @@ In the last two years, I have mainly been working on Grothendieck-Verdier catego
 - My [<ins>bachelor's thesis</ins>](https://drive.google.com/file/d/13EyI9eTgfvTnlHWxnKYQZ2IcJ5FZeQFS/view?usp=sharing).
 
 <h6><span class="font-weight-bold">Surface diagrams for Grothendieck-Verdier categories</span></h6>
-This is a list of homotopy.io files relevant for my master's thesis. Homotopy.io is a web-based proof assistant for finitely-presented globular n-categories. Open the files in [<ins>homotopy.io</ins>](https://beta.homotopy.io) after downloading:
+This is a list of homotopy.io files relevant for my master's thesis. Import the downloaded files into [<ins>homotopy.io</ins>](https://beta.homotopy.io). Homotopy.io is a web-based proof assistant for finitely-presented globular n-categories.
 
-- The signature of <a href="assets/pdf/LD-categories.hom" download>linearly distributive categories</a>.
+- The signature of <a href="assets/pdf/LD-categories.hom" download="LD-categories.hom">linearly distributive categories</a>.
