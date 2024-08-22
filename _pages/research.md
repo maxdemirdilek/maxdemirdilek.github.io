@@ -20,4 +20,4 @@ In the last two years, I have mainly been working on Grothendieck-Verdier catego
 <h6><span class="font-weight-bold">Surface diagrams for Grothendieck-Verdier categories</span></h6>
 This is a list of homotopy.io files relevant for my master's thesis. Homotopy.io is a web-based proof assistant for finitely-presented globular n-categories. Open the files in [<ins>homotopy.io</ins>](https://beta.homotopy.io) after downloading:
 
-- The signature of [<ins>linearly distributive categories</ins>](assets/pdf/LD-categories.hom).
+- The signature of <a href="assets/pdf/LD-categories.hom" download>linearly distributive categories</a>.
