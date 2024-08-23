@@ -21,3 +21,10 @@ In the last two years, I have mainly been working on Grothendieck-Verdier catego
 This is a list of homotopy.io files relevant for my master's thesis. To view the files' content, import the downloaded files into [<ins>homotopy.io</ins>](https://beta.homotopy.io). Homotopy.io is a web-based proof assistant for finitely-presented globular n-categories.
 
 - The signature of <a href="/assets/pdf/LD-categories.hom" download="LD-categories.hom">linearly distributive categories</a>.
+- The signature of <a href="/assets/pdf/LD-Frobenius_algebras.hom" download="LD-Frobenius_algebras.hom">LD-Frobenius algebras</a>.
+
+This is a list of stl-files created with homotopy.io relevant for my master's thesis:
+
+<iframe id="vs_iframe" src="https://www.viewstl.com/?embedded" style="border:0;margin:0;width:100%;height:100%;">First part of Frobenius</iframe>
+- The <a href="/assets/pdf/LD-Frobenius_algebras.hom" download="LD-Frobenius_algebras.hom">left distributor</a>.
+- The signature of <a href="/assets/pdf/LD-Frobenius_algebras.hom" download="LD-Frobenius_algebras.hom">LD-Frobenius algebras</a>.
