@@ -25,5 +25,9 @@ This is a list of homotopy.io files relevant for my master's thesis. To view the
 
 This is a list of stl-files created with homotopy.io relevant for my master's thesis:
 
-- <iframe id="vs_iframe" src="https://www.viewstl.com/?embedded&url=https%3A%2F%2Fgithub.com%2Fmaxdemirdilek%2Fmaxdemirdilek.github.io%2Fblob%2Fmaster%2Fassets%2Fpdf%2Fdistributor.stl" style="border:0;margin:0;width:100%;height:100%;"></iframe>
 - The <a href="/assets/pdf/distributor.stl" download="distributor.stl">left distributor</a>.
+- First half of the <a href="/assets/pdf/Frobenius_relation-first_part.stl" download="Frobenius_relation1.stl">LD-Frobenius relation</a>.
+- Second half of the <a href="/assets/pdf/Frobenius_relation-second_part.stl" download="Frobenius_relation2.stl">LD-Frobenius relation</a>.
+
+  After downloading the stl-files, you can view them on your browser by uploading them here:
+  <iframe id="vs_iframe" src="https://www.viewstl.com/?embedded" style="border:0;margin:0;width:100%;height:100%;"></iframe>
