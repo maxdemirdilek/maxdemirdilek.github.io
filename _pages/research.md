@@ -25,11 +25,13 @@ This is a list of homotopy.io-files relevant for my master's thesis:
 
 To display them, import the downloaded files into the beta version of [<ins>homotopy.io</ins>](https://beta.homotopy.io). Homotopy.io is a web-based proof assistant for finitely-presented globular n-categories.
 
-This is a list of .STL files created with homotopy.io relevant for my master's thesis. The surfaces are monochromatic:
+This is a list of monochromatic .STL files relevant for my master's thesis:
 
 - The <a href="/assets/pdf/distributor.stl" download="distributor.stl">right distributor</a>.
 - One half of the <a href="/assets/pdf/Frobenius_relation-first_part.stl" download="Frobenius_relation1.stl">LD-Frobenius relation</a>.
 - Other half of the <a href="/assets/pdf/Frobenius_relation-second_part.stl" download="Frobenius_relation2.stl">LD-Frobenius relation</a>.
+
+The .STL files were created with homotopy.io.
 
 Display your downloaded .STL files here:
 
