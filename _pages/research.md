@@ -29,7 +29,7 @@ This is a list of monochromatic .STL files relevant for my master's thesis:
 
 - The <a href="/assets/pdf/left_distributor.stl" download="left_distributor.stl">left distributor</a>.
 - The <a href="/assets/pdf/right_distributor.stl" download="right_distributor.stl">right distributor</a>.
-- One half of the <a href="/assets/pdf/Frobenius_relation-first_part.stl" download="Frobenius_relation1.stl">LD-Frobenius relation</a>.
+- Half of the <a href="/assets/pdf/Frobenius_relation-first_part.stl" download="Frobenius_relation1.stl">LD-Frobenius relation</a>.
 - Other half of the <a href="/assets/pdf/Frobenius_relation-second_part.stl" download="Frobenius_relation2.stl">LD-Frobenius relation</a>.
 
 The .STL files were created with homotopy.io.
