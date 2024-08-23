@@ -18,16 +18,19 @@ In the last two years, I have mainly been working on Grothendieck-Verdier catego
 - My [<ins>bachelor's thesis</ins>](https://drive.google.com/file/d/13EyI9eTgfvTnlHWxnKYQZ2IcJ5FZeQFS/view?usp=sharing).
 
 <h6><span class="font-weight-bold">Surface diagrams for Grothendieck-Verdier categories</span></h6>
-This is a list of homotopy.io files relevant for my master's thesis. To view the files' content, import the downloaded files into [<ins>homotopy.io</ins>](https://beta.homotopy.io). Homotopy.io is a web-based proof assistant for finitely-presented globular n-categories.
+This is a list of homotopy.io-files relevant for my master's thesis:
 
 - The signature of <a href="/assets/pdf/LD-categories.hom" download="LD-categories.hom">linearly distributive categories</a>.
 - The signature of <a href="/assets/pdf/LD-Frobenius_algebras.hom" download="LD-Frobenius_algebras.hom">LD-Frobenius algebras</a>.
 
-This is a list of stl-files created with homotopy.io relevant for my master's thesis:
+To display the files, import the downloaded files into the beta version of [<ins>homotopy.io</ins>](https://beta.homotopy.io). Homotopy.io is a web-based proof assistant for finitely-presented globular n-categories.
 
-- The <a href="/assets/pdf/distributor.stl" download="distributor.stl">left distributor</a>.
-- First half of the <a href="/assets/pdf/Frobenius_relation-first_part.stl" download="Frobenius_relation1.stl">LD-Frobenius relation</a>.
-- Second half of the <a href="/assets/pdf/Frobenius_relation-second_part.stl" download="Frobenius_relation2.stl">LD-Frobenius relation</a>.
+This is a list of .STL files created with homotopy.io relevant for my master's thesis:
 
-  After downloading the stl-files, you can view them on your browser by uploading them here:
-  <iframe id="vs_iframe" src="https://www.viewstl.com/?embedded" style="border:0;margin:0;width:100%;height:100%;"></iframe>
+- The <a href="/assets/pdf/distributor.stl" download="distributor.stl">right distributor</a>.
+- <a href="/assets/pdf/Frobenius_relation-first_part.stl" download="Frobenius_relation1.stl">One half of the LD-Frobenius relation</a>.
+- <a href="/assets/pdf/Frobenius_relation-second_part.stl" download="Frobenius_relation2.stl">Other half of the LD-Frobenius relation</a>.
+
+Display your downloaded .STL files here:
+
+<iframe id="vs_iframe" src="https://www.viewstl.com/?embedded" style="border:0;margin:0;width:100%;height:100%;"></iframe>
