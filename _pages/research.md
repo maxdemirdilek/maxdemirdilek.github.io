@@ -25,6 +25,6 @@ This is a list of homotopy.io files relevant for my master's thesis. To view the
 
 This is a list of stl-files created with homotopy.io relevant for my master's thesis:
 
-<iframe id="vs_iframe" src="https://www.viewstl.com/?embedded" style="border:0;margin:0;width:100%;height:100%;">First part of Frobenius</iframe>
+- <iframe id="vs_iframe" src="https://www.viewstl.com/?embedded" style="border:0;margin:0;width:100%;height:100%;">First part of Frobenius</iframe>
 - The <a href="/assets/pdf/LD-Frobenius_algebras.hom" download="LD-Frobenius_algebras.hom">left distributor</a>.
 - The signature of <a href="/assets/pdf/LD-Frobenius_algebras.hom" download="LD-Frobenius_algebras.hom">LD-Frobenius algebras</a>.
