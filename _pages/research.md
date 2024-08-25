@@ -18,7 +18,7 @@ In the last two years, I have mainly been working on Grothendieck-Verdier catego
 - My [<ins>bachelor's thesis</ins>](https://drive.google.com/file/d/13EyI9eTgfvTnlHWxnKYQZ2IcJ5FZeQFS/view?usp=sharing).
 
 <h6><span class="font-weight-bold">Surface diagrams for Grothendieck-Verdier categories</span></h6>
-This is a list of .HOM files relevant for my master's thesis. These are input-data for [<ins>homotopy.io</ins>], a web-based proof assistant for finitely-presented globular n-categories.
+This is a list of .HOM files relevant for my master's thesis. These are input-data for [<ins>homotopy.io</ins>](https://beta.homotopy.io), a web-based proof assistant for finitely-presented globular n-categories.
 
 - The signature of <a href="/assets/pdf/LD-categories.hom" download="LD-categories.hom">linearly distributive categories</a>.
 - The signature of <a href="/assets/pdf/LD-Frobenius_algebras.hom" download="LD-Frobenius_algebras.hom">LD-Frobenius algebras</a>.
