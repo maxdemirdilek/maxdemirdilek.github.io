@@ -18,24 +18,24 @@ In the last two years, I have mainly been working on Grothendieck-Verdier catego
 - My [<ins>bachelor's thesis</ins>](https://drive.google.com/file/d/13EyI9eTgfvTnlHWxnKYQZ2IcJ5FZeQFS/view?usp=sharing).
 
 <h6><span class="font-weight-bold">Surface diagrams for Grothendieck-Verdier categories</span></h6>
-This is a list of .HOM files relevant for my master's thesis. These are input-data for the web-based proof assistant [<ins>homotopy.io</ins>](https://beta.homotopy.io) for finitely-presented globular n-categories.
+This is a list of .HOM files relevant for my master's thesis. These are input-data for [<ins>homotopy.io</ins>], a web-based proof assistant for finitely-presented globular n-categories.
 
 - The signature of <a href="/assets/pdf/LD-categories.hom" download="LD-categories.hom">linearly distributive categories</a>.
 - The signature of <a href="/assets/pdf/LD-Frobenius_algebras.hom" download="LD-Frobenius_algebras.hom">LD-Frobenius algebras</a>.
 
 To use them, import the downloaded files into the beta version of [<ins>homotopy.io</ins>](https://beta.homotopy.io). 
 
-Some surface diagrams appearing my master's thesis can be displayed using the following .STL files:
+Some .STL files of surface diagrams appearing in my master's thesis:
 
 - The <a href="/assets/pdf/left_distributor.stl" download="left_distributor.stl">left distributor</a>.
 - The <a href="/assets/pdf/right_distributor.stl" download="right_distributor.stl">right distributor</a>.
 - Half of the <a href="/assets/pdf/Frobenius_relation-first_part.stl" download="Frobenius_relation1.stl">LD-Frobenius relation</a>.
 - Other half of the <a href="/assets/pdf/Frobenius_relation-second_part.stl" download="Frobenius_relation2.stl">LD-Frobenius relation</a>.
 
-The .STL files were created with homotopy.io. Unfortunately, the .STL file format does not support colours.
-
 Display your downloaded .STL files here:
 
 <iframe id="vs_iframe" src="https://www.viewstl.com/?embedded" style="border:0;margin:0;width:100%;height:100%;"></iframe>
+
+The .STL files were created with homotopy.io. Unfortunately, the .STL file format does not support colours.
 
 [<ins>Some surface-diagrammatic proofs</ins>](\assets\pdf\Demirdilek_some-surface-diagrams.pdf) that have not made it into my master's thesis.
