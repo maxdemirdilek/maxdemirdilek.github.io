@@ -18,14 +18,14 @@ In the last two years, I have mainly been working on Grothendieck-Verdier catego
 - My [<ins>bachelor's thesis</ins>](https://drive.google.com/file/d/13EyI9eTgfvTnlHWxnKYQZ2IcJ5FZeQFS/view?usp=sharing).
 
 <h6><span class="font-weight-bold">Surface diagrams for Grothendieck-Verdier categories</span></h6>
-This is a list of .HOM files relevant for my master's thesis:
+This is a list of .HOM files relevant for my master's thesis. These are input-data for the web-based proof assistant [<ins>homotopy.io</ins>](https://beta.homotopy.io) for finitely-presented globular n-categories.
 
 - The signature of <a href="/assets/pdf/LD-categories.hom" download="LD-categories.hom">linearly distributive categories</a>.
 - The signature of <a href="/assets/pdf/LD-Frobenius_algebras.hom" download="LD-Frobenius_algebras.hom">LD-Frobenius algebras</a>.
 
-To display them, import the downloaded files into the beta version of [<ins>homotopy.io</ins>](https://beta.homotopy.io). Homotopy.io is a web-based proof assistant for finitely-presented globular n-categories.
+To use them, import the downloaded files into the beta version of [<ins>homotopy.io</ins>](https://beta.homotopy.io). 
 
-This is a list of .STL files relevant for my master's thesis:
+Some surface diagrams appearing my master's thesis can be displayed using the following .STL files:
 
 - The <a href="/assets/pdf/left_distributor.stl" download="left_distributor.stl">left distributor</a>.
 - The <a href="/assets/pdf/right_distributor.stl" download="right_distributor.stl">right distributor</a>.
@@ -38,4 +38,4 @@ Display your downloaded .STL files here:
 
 <iframe id="vs_iframe" src="https://www.viewstl.com/?embedded" style="border:0;margin:0;width:100%;height:100%;"></iframe>
 
-- [<ins>Some surface-diagrammatic proofs</ins>](\assets\pdf\some_surface_diagrammatic_proofs.pdf) that have not made it into my master's thesis.
+- [<ins>Some surface-diagrammatic proofs</ins>](\assets\pdf\Demirdilek_some-surface-diagrams.pdf) that have not made it into my master's thesis.
