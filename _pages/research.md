@@ -38,4 +38,4 @@ Display your downloaded .STL files here:
 
 The .STL files were created with homotopy.io. The .STL file format does not support colours, unfortunately.
 
-[<ins>Some surface-diagrammatic proofs</ins>](\assets\pdf\Demirdilek_some-surface-diagrams.pdf) that have not made it into my master's thesis.
+[<ins>Surface-diagrammatic proofs</ins>](\assets\pdf\Demirdilek_some-surface-diagrams.pdf) that have not made it into my master's thesis.
