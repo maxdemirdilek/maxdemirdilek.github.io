@@ -18,12 +18,12 @@ In the last two years, I have mainly been working on Grothendieck-Verdier catego
 - My [<ins>bachelor's thesis</ins>](https://drive.google.com/file/d/13EyI9eTgfvTnlHWxnKYQZ2IcJ5FZeQFS/view?usp=sharing).
 
 <h6><span class="font-weight-bold">Surface diagrams for Grothendieck-Verdier categories</span></h6>
-This is a list of .HOM files relevant for my master's thesis. These are input-data for [<ins>homotopy.io</ins>](https://beta.homotopy.io), a web-based proof assistant for finitely-presented globular n-categories.
+This is a list of .HOM files relevant for my master's thesis:
 
 - The signature of <a href="/assets/pdf/LD-categories.hom" download="LD-categories.hom">linearly distributive categories</a>.
 - The signature of <a href="/assets/pdf/LD-Frobenius_algebras.hom" download="LD-Frobenius_algebras.hom">LD-Frobenius algebras</a>.
 
-To use them, import the downloaded files into the beta version of [<ins>homotopy.io</ins>](https://beta.homotopy.io). 
+These are input-data for homotopy.io, a web-based proof assistant for finitely-presented globular n-categories. To use them, import the downloaded files into the beta version of [<ins>homotopy.io</ins>](https://beta.homotopy.io). 
 
 Some .STL files of surface diagrams from my master's thesis:
 
@@ -36,6 +36,6 @@ Display your downloaded .STL files here:
 
 <iframe id="vs_iframe" src="https://www.viewstl.com/?embedded" style="border:0;margin:0;width:100%;height:100%;"></iframe>
 
-The .STL files were created with homotopy.io. Unfortunately, the .STL file format does not support colours.
+The .STL files were created with homotopy.io. The .STL file format does not support colours, unfortunately.
 
 [<ins>Some surface-diagrammatic proofs</ins>](\assets\pdf\Demirdilek_some-surface-diagrams.pdf) that have not made it into my master's thesis.
