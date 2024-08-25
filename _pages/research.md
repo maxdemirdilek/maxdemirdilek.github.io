@@ -25,7 +25,7 @@ This is a list of .HOM files relevant for my master's thesis. These are input-da
 
 To use them, import the downloaded files into the beta version of [<ins>homotopy.io</ins>](https://beta.homotopy.io). 
 
-Some .STL files of surface diagrams appearing in my master's thesis:
+Some .STL files of surface diagrams from my master's thesis:
 
 - The <a href="/assets/pdf/left_distributor.stl" download="left_distributor.stl">left distributor</a>.
 - The <a href="/assets/pdf/right_distributor.stl" download="right_distributor.stl">right distributor</a>.
