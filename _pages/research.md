@@ -23,7 +23,7 @@ Some .HOM files relevant for my master's thesis:
 - The signature of <a href="/assets/pdf/LD-categories.hom" download="LD-categories.hom">linearly distributive categories</a>.
 - The signature of <a href="/assets/pdf/LD-Frobenius_algebras.hom" download="LD-Frobenius_algebras.hom">LD-Frobenius algebras</a>.
 
-These are input-data for homotopy.io, a web-based proof assistant for finitely-presented globular n-categories. To use them, import the downloaded files into the beta version of [<ins>homotopy.io</ins>](https://beta.homotopy.io). 
+To use them, import the downloaded files into the beta version of [<ins>homotopy.io</ins>](https://beta.homotopy.io). Homotopy.io is a web-based proof assistant for finitely-presented globular n-categories. 
 
 Some .STL files of surface diagrams from my master's thesis:
 
