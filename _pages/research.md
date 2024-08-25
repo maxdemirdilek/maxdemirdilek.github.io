@@ -38,4 +38,4 @@ Display your downloaded .STL files here:
 
 <iframe id="vs_iframe" src="https://www.viewstl.com/?embedded" style="border:0;margin:0;width:100%;height:100%;"></iframe>
 
-- [<ins>Some surface-diagrammatic proofs</ins>](\assets\pdf\Demirdilek_some-surface-diagrams.pdf) that have not made it into my master's thesis.
+[<ins>Some surface-diagrammatic proofs</ins>](\assets\pdf\Demirdilek_some-surface-diagrams.pdf) that have not made it into my master's thesis.
