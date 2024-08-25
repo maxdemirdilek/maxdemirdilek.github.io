@@ -36,4 +36,4 @@ The .STL files were created with homotopy.io. Unfortunately, the .STL file forma
 
 Display your downloaded .STL files here:
 
-<iframe id="vs_iframe" src="https://www.viewstl.com/?embedded" style="border:0;margin:0;width:100%;height:100%;"></iframe>
+<iframe id="vs_iframe" src="https://www.viewstl.com/?embedded&color=gray&bgcolor=transparent&orientation=bottom&edges=no&clean=yes&shading=flat" style="border:0;margin:0;width:100%;height:100%;"></iframe>
