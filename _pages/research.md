@@ -25,7 +25,7 @@ Some .HOM files relevant for my master's thesis:
 
 To use them, import the downloaded files into the beta version of [<ins>homotopy.io</ins>](https://beta.homotopy.io). Homotopy.io is a web-based proof assistant for finitely-presented globular n-categories. 
 
-Some .STL files of surface diagrams from my master's thesis:
+Some .STL files for surface diagrams from my master's thesis:
 
 - The <a href="/assets/pdf/left_distributor.stl" download="left_distributor.stl">left distributor</a>.
 - The <a href="/assets/pdf/right_distributor.stl" download="right_distributor.stl">right distributor</a>.
