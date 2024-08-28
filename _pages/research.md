@@ -17,7 +17,7 @@ For the last two years, I have been working on Grothendieck-Verdier categories. 
 
 <h6><span class="font-weight-bold">Surface diagrams for Grothendieck-Verdier categories</span></h6>
 Some files for the proof assistant homotopy.io:
-
+- The signature of <a href="/assets/pdf/Lax_monoidal_functors.hom" download="Lax_monoidal_functors.hom">lax monoidal functors</a>.
 - The signature of <a href="/assets/pdf/LD-categories.hom" download="LD-categories.hom">linearly distributive categories</a>.
 - The signature of <a href="/assets/pdf/LD-Frobenius_algebras.hom" download="LD-Frobenius_algebras.hom">LD-Frobenius algebras</a>.
 
@@ -36,4 +36,4 @@ Display your downloaded .STL files here:
 
 The .STL files were created with homotopy.io. Unfortunately, the .STL file format does not support colours.
 
-[<ins>Surface-diagrammatic proofs</ins>](\assets\pdf\Demirdilek_some-surface-diagrams.pdf) that have not made it into my master's thesis.
+[<ins>Surface-diagrammatic proofs</ins>](\assets\pdf\Some_surface_diagrams.pdf) that have not made it into my master's thesis.
