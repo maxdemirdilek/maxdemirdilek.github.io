@@ -26,6 +26,9 @@ To use them, import the downloaded files into the beta version of [<ins>homotopy
 
 Some .STL files for surface diagrams from my master's thesis:
 
+- The <a href="/assets/pdf/tuning_fork.stl" download="tuning_fork.stl">tuning fork surface</a>.
+- The <a href="/assets/pdf/Left_unitor.stl" download="Left_unitor.stl">left unitor</a>.
+- The <a href="/assets/pdf/multiplication_lax-monoidal-functor.stl" download="multiplication_lax-monoidal-functor.stl">multiplication</a> of a lax monoidal functor.
 - The <a href="/assets/pdf/left_distributor.stl" download="left_distributor.stl">left distributor</a>.
 - The <a href="/assets/pdf/right_distributor.stl" download="right_distributor.stl">right distributor</a>.
 - Half of the <a href="/assets/pdf/Frobenius_relation-first_part.stl" download="Frobenius_relation1.stl">LD-Frobenius relation</a>.
