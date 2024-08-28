@@ -18,6 +18,7 @@ For the last two years, I have been working on Grothendieck-Verdier categories. 
 <h6><span class="font-weight-bold">Surface diagrams for Grothendieck-Verdier categories</span></h6>
 Some files for the proof assistant homotopy.io:
 
+- The signature of <a href="/assets/pdf/Monoidal_categories.hom" download="Monoidal_categories.hom">monoidal categories</a>.
 - The signature of <a href="/assets/pdf/Lax_monoidal_functors.hom" download="Lax_monoidal_functors.hom">lax monoidal functors</a>.
 - The signature of <a href="/assets/pdf/LD-categories.hom" download="LD-categories.hom">linearly distributive categories</a>.
 - The signature of <a href="/assets/pdf/LD-Frobenius_algebras.hom" download="LD-Frobenius_algebras.hom">LD-Frobenius algebras</a>.
@@ -26,7 +27,7 @@ To use them, import the downloaded files into the beta version of [<ins>homotopy
 
 Some .STL files for surface diagrams from my master's thesis:
 
-- The <a href="/assets/pdf/tuning_fork.stl" download="tuning_fork.stl">tuning fork surface</a>.
+- The <a href="/assets/pdf/tuning_fork.stl" download="tuning_fork.stl">tuning fork</a>.
 - The <a href="/assets/pdf/Left_unitor.stl" download="Left_unitor.stl">left unitor</a>.
 - The <a href="/assets/pdf/multiplication_lax-monoidal-functor.stl" download="multiplication_lax-monoidal-functor.stl">multiplication</a> of a lax monoidal functor.
 - The <a href="/assets/pdf/left_distributor.stl" download="left_distributor.stl">left distributor</a>.
@@ -38,6 +39,6 @@ Display your downloaded .STL files here:
 
 <iframe id="vs_iframe" src="https://www.viewstl.com/?embedded" style="border:0;margin:0;width:100%;height:100%;"></iframe>
 
-The .STL files were created with homotopy.io. Unfortunately, the .STL file format does not support colours.
+The .STL files were created with homotopy.io. Unfortunately, the .STL file format does not support colours. Thus, the .STL files for the right and left distributor are also depict the surface diagrams for the associator and its inverse.
 
 [<ins>Surface-diagrammatic proofs</ins>](\assets\pdf\Some_surface_diagrams.pdf) that have not made it into my master's thesis.
