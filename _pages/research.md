@@ -16,12 +16,12 @@ For the last two years, I have been working on Grothendieck-Verdier categories. 
 - My [<ins>bachelor's thesis</ins>](https://drive.google.com/file/d/13EyI9eTgfvTnlHWxnKYQZ2IcJ5FZeQFS/view?usp=sharing).
 
 <h6><span class="font-weight-bold">Surface diagrams for Grothendieck-Verdier categories</span></h6>
-Some .HOM files relevant for my master's thesis:
+Some files relevant for the web-based proof assistant homotopy.io:
 
 - The signature of <a href="/assets/pdf/LD-categories.hom" download="LD-categories.hom">linearly distributive categories</a>.
 - The signature of <a href="/assets/pdf/LD-Frobenius_algebras.hom" download="LD-Frobenius_algebras.hom">LD-Frobenius algebras</a>.
 
-To use them, import the downloaded files into the beta version of [<ins>homotopy.io</ins>](https://beta.homotopy.io). Homotopy.io is a web-based proof assistant for finitely-presented globular n-categories. 
+To use them, import the downloaded files into the beta version of [<ins>homotopy.io</ins>](https://beta.homotopy.io).
 
 Some .STL files for surface diagrams from my master's thesis:
 
