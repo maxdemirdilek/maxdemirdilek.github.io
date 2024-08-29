@@ -27,7 +27,7 @@ To use them, import the downloaded files into the beta version of [<ins>homotopy
 
 Some .STL files for surface diagrams from my master's thesis:
 
-- <a href="/assets/pdf/tuning_fork.stl" download="tuning_fork.stl">Tuning fork</a>.
+- <a href="/assets/pdf/tuning_fork.stl" download="tuning_fork.stl">Monoidal tuning fork</a>.
 - <a href="/assets/pdf/Left_unitor.stl" download="Left_unitor.stl">Left unitor</a>.
 - <a href="/assets/pdf/multiplication_lax-monoidal-functor.stl" download="multiplication_lax-monoidal-functor.stl">Multiplication</a> of a lax monoidal functor.
 - <a href="/assets/pdf/left_distributor.stl" download="left_distributor.stl">Left distributor</a>.
