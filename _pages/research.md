@@ -36,7 +36,7 @@ Some .STL files for surface diagrams from my master's thesis:
 - Half of <a href="/assets/pdf/snake_equation-(S2).stl" download="snake_equation-(S2).stl">snake equation (S2)</a>.
 - Half of the <a href="/assets/pdf/Associativity1.stl" download="Associativity1.stl">associativity relation</a>.
 - Other half of the <a href="/assets/pdf/Associativity2.stl" download="Associativity2.stl">associativity relation</a>.
-- <a href="/assets/pdf/Left_unitality.stl" download="Left_unitality.stl">Left unitality relation</a>.
+- Half of the <a href="/assets/pdf/Left_unitality.stl" download="Left_unitality.stl">left unitality relation</a>.
 - Part of the <a href="/assets/pdf/Frobenius_relation-first_part.stl" download="Frobenius_relation1.stl">LD-Frobenius relation</a>.
 - Other part of the <a href="/assets/pdf/Frobenius_relation-second_part.stl" download="Frobenius_relation2.stl">LD-Frobenius relation</a>.
 
