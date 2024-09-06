@@ -33,6 +33,7 @@ Some .STL files for surface diagrams from my master's thesis:
 - <a href="/assets/pdf/multiplication_lax-monoidal-functor.stl" download="multiplication_lax-monoidal-functor.stl">Multiplication</a> of a lax monoidal functor.
 - <a href="/assets/pdf/left_distributor.stl" download="left_distributor.stl">Left distributor</a>.
 - <a href="/assets/pdf/right_distributor.stl" download="right_distributor.stl">Right distributor</a>.
+- Half of <a href="/assets/pdf/snake_equation-(S2).stl" download="snake_equation-(S2).stl">snake equation (S2)</a>.
 - Half of the <a href="/assets/pdf/Associativity1.stl" download="Associativity1.stl">associativity relation</a>.
 - Other half of the <a href="/assets/pdf/Associativity2.stl" download="Associativity2.stl">associativity relation</a>.
 - <a href="/assets/pdf/Left_unitality.stl" download="Left_unitality.stl">Left unitality relation</a>.
