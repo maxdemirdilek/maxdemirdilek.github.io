@@ -21,6 +21,7 @@ Some files for the proof assistant homotopy.io:
 - The signature of <a href="/assets/pdf/Monoidal_categories.hom" download="Monoidal_categories.hom">monoidal categories</a>.
 - The signature of <a href="/assets/pdf/Lax_monoidal_functors.hom" download="Lax_monoidal_functors.hom">lax monoidal functors</a>.
 - The signature of <a href="/assets/pdf/LD-categories.hom" download="LD-categories.hom">linearly distributive categories</a>.
+- The signature of <a href="/assets/pdf/side-inverse_LD-(co)pairings.hom" download="side-inverse_LD-(co)pairings.hom">side-inverse LD-(co)pairings</a>.
 - The signature of <a href="/assets/pdf/LD-Frobenius_algebras.hom" download="LD-Frobenius_algebras.hom">LD-Frobenius algebras</a>.
 
 To use them, import the downloaded files into the beta version of [<ins>homotopy.io</ins>](https://beta.homotopy.io). Homotopy.io is a web-based proof assistant for finitely-presented globular n-categories.
