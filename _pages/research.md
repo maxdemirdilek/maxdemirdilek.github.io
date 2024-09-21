@@ -46,5 +46,3 @@ Display your downloaded .STL files here:
 <iframe id="vs_iframe" src="https://www.viewstl.com/?embedded" style="border:0;margin:0;width:100%;height:100%;"></iframe>
 
 I created the .STL files with homotopy.io. Unfortunately, the .STL file format does not support colors. Thus, the files for the right and left distributor are also those for the associator and its inverse.
-
-[<ins>Surface-diagrammatic proofs</ins>](\assets\pdf\Some_surface_diagrams.pdf) that have not made it into my master's thesis.
