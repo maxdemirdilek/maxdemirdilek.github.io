@@ -24,7 +24,7 @@ Some files for the proof assistant homotopy.io:
 
 To use them, import the downloaded files into the beta version of [<ins>homotopy.io</ins>](https://beta.homotopy.io). Homotopy.io is a web-based proof assistant for finitely-presented globular n-categories.
 
-Some .STL files for surface diagrams from my master's thesis:
+Some STL files for surface diagrams from my master's thesis:
 
 - <a href="/assets/pdf/tuning_fork.stl" download="tuning_fork.stl">Monoidal tuning fork</a>.
 - <a href="/assets/pdf/Left_unitor.stl" download="Left_unitor.stl">Left unitor</a>.
@@ -39,8 +39,8 @@ Some .STL files for surface diagrams from my master's thesis:
 - Part of the <a href="/assets/pdf/Frobenius_relation-first_part.stl" download="Frobenius_relation1.stl">LD-Frobenius relation</a>.
 - Other part of the <a href="/assets/pdf/Frobenius_relation-second_part.stl" download="Frobenius_relation2.stl">LD-Frobenius relation</a>.
 
-Display your downloaded .STL files here:
+Display your downloaded STL files here:
 
 <iframe id="vs_iframe" src="https://www.viewstl.com/?embedded" style="border:0;margin:0;width:100%;height:100%;"></iframe>
 
-I created the .STL files with homotopy.io. Unfortunately, the .STL file format does not support colors. Thus, the files for the right and left distributor are also those for the associator and its inverse.
+I created the STL files with homotopy.io. Unfortunately, the STL file format does not support colors. Thus, the files for the right and left distributor are also those for the associator and its inverse.
