@@ -12,6 +12,7 @@ Currently, I am working on Grothendieck-Verdier categories. These are monoidal c
 
 <h6><span class="font-weight-bold">Theses</span></h6>
 - My [<ins>bachelor's thesis</ins>](https://drive.google.com/file/d/13EyI9eTgfvTnlHWxnKYQZ2IcJ5FZeQFS/view?usp=sharing).
+- My [<ins>master's thesis</ins>](https://drive.google.com/file/d/1gj5UtUiXkceE_ALid8IYQCv4w3LK3G4J/view?usp=sharing).
 
 <h6><span class="font-weight-bold">Surface diagrams for Grothendieck-Verdier categories</span></h6>
 Some files for the proof assistant homotopy.io:
