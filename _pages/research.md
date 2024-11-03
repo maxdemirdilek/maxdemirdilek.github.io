@@ -12,9 +12,9 @@ Currently, I am working on Grothendieck-Verdier categories. These are monoidal c
 
 <details>
 <summary><h6 style="display:inline-block"><span class="font-weight-bold">Theses</span></h6></summary>
-
-    + My [<ins>bachelor's thesis</ins>](https://drive.google.com/file/d/13EyI9eTgfvTnlHWxnKYQZ2IcJ5FZeQFS/view?usp=sharing) characterizing linearly distributive categories with invertible distributors up to Frobenius linearly distributive equivalence.
-    + My [<ins>master's thesis</ins>](https://drive.google.com/file/d/1gj5UtUiXkceE_ALid8IYQCv4w3LK3G4J/view?usp=sharing) on surface diagrams for Grothendieck-Verdier categories, Frobenius algebras in linearly distributive categories, Hopf monads, Hopf algebroids, Hopf adjunctions, and Frobenius-Schur indicators for pivotal Grothendieck-Verdier categories.
+<ul>
+<li> My [<ins>bachelor's thesis</ins>](https://drive.google.com/file/d/13EyI9eTgfvTnlHWxnKYQZ2IcJ5FZeQFS/view?usp=sharing) characterizing linearly distributive categories with invertible distributors up to Frobenius linearly distributive equivalence. </li>
+<li> My [<ins>master's thesis</ins>](https://drive.google.com/file/d/1gj5UtUiXkceE_ALid8IYQCv4w3LK3G4J/view?usp=sharing) on surface diagrams for Grothendieck-Verdier categories, Frobenius algebras in linearly distributive categories, Hopf monads, Hopf algebroids, Hopf adjunctions, and Frobenius-Schur indicators for pivotal Grothendieck-Verdier categories. </li>
 </details>
 
 <details>
