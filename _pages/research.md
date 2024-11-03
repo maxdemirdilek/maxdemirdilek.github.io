@@ -12,7 +12,7 @@ Currently, I am working on Grothendieck-Verdier categories. These are monoidal c
 
 <h6><span class="font-weight-bold">Theses</span></h6>
 - My [<ins>bachelor's thesis</ins>](https://drive.google.com/file/d/13EyI9eTgfvTnlHWxnKYQZ2IcJ5FZeQFS/view?usp=sharing) characterizing linearly distributive categories with invertible distributors up to Frobenius linearly distributive equivalence.
-- My [<ins>master's thesis</ins>](https://drive.google.com/file/d/1gj5UtUiXkceE_ALid8IYQCv4w3LK3G4J/view?usp=sharing) on surface diagrams for Grothendieck-Verdier categories, Frobenius algebras in linearly distributive categories, Hopf monads, Hopf algebroids, Hopf adjunctions, and lifting theorems for Grothendieck-Verdier categories.
+- My [<ins>master's thesis</ins>](https://drive.google.com/file/d/1gj5UtUiXkceE_ALid8IYQCv4w3LK3G4J/view?usp=sharing) on surface diagrams for Grothendieck-Verdier categories, Frobenius algebras in linearly distributive categories, Hopf monads, Hopf algebroids, Hopf adjunctions, lifting results for Grothendieck-Verdier categories, and Frobenius-Schur indicators for pivotal Grothendieck-Verdier categories.
 
 <h6><span class="font-weight-bold">Surface diagrams for Grothendieck-Verdier categories</span></h6>
 Some files for the proof assistant homotopy.io:
