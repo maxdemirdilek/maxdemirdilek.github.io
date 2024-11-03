@@ -11,14 +11,14 @@ horizontal: false
 Currently, I am working on Grothendieck-Verdier categories. These are monoidal categories with a duality structure that is more general than rigidity. Grothendieck-Verdier categories occur as representation categories of vertex operator algebras. This has been my motivation for studying them.
 
 <details>
-  <summary><h6><span class="font-weight-bold">Theses</span></h6></summary>
+  <summary><h6 style="display:inline-block"><span class="font-weight-bold">Theses</span></h6></summary>
 
 - My [<ins>bachelor's thesis</ins>](https://drive.google.com/file/d/13EyI9eTgfvTnlHWxnKYQZ2IcJ5FZeQFS/view?usp=sharing) characterizing linearly distributive categories with invertible distributors up to Frobenius linearly distributive equivalence.
 - My [<ins>master's thesis</ins>](https://drive.google.com/file/d/1gj5UtUiXkceE_ALid8IYQCv4w3LK3G4J/view?usp=sharing) on surface diagrams for Grothendieck-Verdier categories, Frobenius algebras in linearly distributive categories, Hopf monads, Hopf algebroids, Hopf adjunctions, and Frobenius-Schur indicators for pivotal Grothendieck-Verdier categories.
 </details>
 
 <details>
-  <summary><h6><span class="font-weight-bold">Surface diagrams for Grothendieck-Verdier categories</span></h6></summary> 
+  <summary><h6 style="display:inline-block"><span class="font-weight-bold">Surface diagrams for Grothendieck-Verdier categories</span></h6></summary> 
 
 
 Some files for the proof assistant homotopy.io:
