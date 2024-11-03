@@ -14,7 +14,10 @@ Currently, I am working on Grothendieck-Verdier categories. These are monoidal c
 - My [<ins>bachelor's thesis</ins>](https://drive.google.com/file/d/13EyI9eTgfvTnlHWxnKYQZ2IcJ5FZeQFS/view?usp=sharing) characterizing linearly distributive categories with invertible distributors up to Frobenius linearly distributive equivalence.
 - My [<ins>master's thesis</ins>](https://drive.google.com/file/d/1gj5UtUiXkceE_ALid8IYQCv4w3LK3G4J/view?usp=sharing) on surface diagrams for Grothendieck-Verdier categories, Frobenius algebras in linearly distributive categories, Hopf monads, Hopf algebroids, Hopf adjunctions, and Frobenius-Schur indicators for pivotal Grothendieck-Verdier categories.
 
+<details>
+<summary>
 <h6><span class="font-weight-bold">Surface diagrams for Grothendieck-Verdier categories</span></h6>
+</summary> 
 Some files for the proof assistant homotopy.io:
 
 - The signature of <a href="/assets/pdf/Monoidal_categories.hom" download="Monoidal_categories.hom">monoidal categories</a>.
@@ -45,3 +48,5 @@ Display your downloaded STL files here:
 <iframe id="vs_iframe" src="https://www.viewstl.com/?embedded" style="border:0;margin:0;width:100%;height:100%;"></iframe>
 
 I created the STL files with homotopy.io. Unfortunately, the STL file format does not support colors. Thus, the files for the right and left distributor are also those for the associator and its inverse.
+
+</details>
