@@ -31,6 +31,7 @@ Some files for the proof assistant homotopy.io:
 </ul>
 To use them, import the downloaded files into the beta version of <a href="https://beta.homotopy.io"><ins>homotopy.io</ins></a>. Homotopy.io is a web-based proof assistant for finitely-presented globular n-categories.
 <br>
+<br>
 Some STL files for surface diagrams from my master's thesis:
 <ul>
 <li> <a href="/assets/pdf/tuning_fork.stl" download="tuning_fork.stl">Monoidal tuning fork</a>.</li>
