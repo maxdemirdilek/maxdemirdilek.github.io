@@ -30,7 +30,7 @@ Some files for the proof assistant homotopy.io:
 <li> The signature of <a href="/assets/pdf/LD-Frobenius_algebras.hom" download="LD-Frobenius_algebras.hom">LD-Frobenius algebras</a>.</li>
 </ul>
 To use them, import the downloaded files into the beta version of <a href="https://beta.homotopy.io"><ins>homotopy.io</ins></a>. Homotopy.io is a web-based proof assistant for finitely-presented globular n-categories.
-
+<br>
 Some STL files for surface diagrams from my master's thesis:
 <ul>
 <li> <a href="/assets/pdf/tuning_fork.stl" download="tuning_fork.stl">Monoidal tuning fork</a>.</li>
@@ -47,10 +47,9 @@ Some STL files for surface diagrams from my master's thesis:
 <li> Other part of the <a href="/assets/pdf/Frobenius_relation-second_part.stl" download="Frobenius_relation2.stl">LD-Frobenius relation</a>.</li>
 </ul>
 Display your downloaded STL files here:
-
+<br>
 <iframe id="vs_iframe" src="https://www.viewstl.com/?embedded" style="border:0;margin:0;width:100%;height:100%;"></iframe>
-
+<br>
 I created the STL files with homotopy.io. Unfortunately, the STL file format does not support colors. Thus, the files for the right and left distributor are also those for the associator and its inverse.
 <br>
-
 </details>
