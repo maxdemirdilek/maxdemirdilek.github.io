@@ -19,8 +19,7 @@ Currently, I am working on Grothendieck-Verdier categories. These are monoidal c
 </details>
 
 <details>
-<summary><h6 style="display:inline-block"><span class="font-weight-bold">Surface diagrams for Grothendieck-Verdier categories</span></h6></summary> 
-<br>
+<summary><h6 style="display:inline-block"><span class="font-weight-bold">Surface diagrams for Grothendieck-Verdier categories</span></h6></summary>
 Some files for the proof assistant homotopy.io:
 <ul>
 <li> The signature of <a href="/assets/pdf/Monoidal_categories.hom" download="Monoidal_categories.hom">monoidal categories</a>.</li>
@@ -48,7 +47,6 @@ Some STL files for surface diagrams from my master's thesis:
 <li> Other part of the <a href="/assets/pdf/Frobenius_relation-second_part.stl" download="Frobenius_relation2.stl">LD-Frobenius relation</a>.</li>
 </ul>
 Display your downloaded STL files here:
-<br>
 <br>
 <iframe id="vs_iframe" src="https://www.viewstl.com/?embedded" style="border:0;margin:0;width:100%;height:100%;"></iframe>
 <br>
