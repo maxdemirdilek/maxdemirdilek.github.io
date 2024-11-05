@@ -13,7 +13,7 @@ Currently, I am working on Grothendieck-Verdier categories. These are monoidal c
 <details>
 <summary><h6 style="display:inline-block"><span class="font-weight-bold">Theses</span></h6></summary>
 <ul>
-<li> My <a href="https://drive.google.com/file/d/13EyI9eTgfvTnlHWxnKYQZ2IcJ5FZeQFS/view?usp=sharing"><ins>bachelor's thesis</ins></a> characterizes linearly distributive categories with invertible distributors up to Frobenius linearly distributive equivalence. </li>
+<li> My <a href="https://drive.google.com/file/d/13EyI9eTgfvTnlHWxnKYQZ2IcJ5FZeQFS/view?usp=sharing"><ins>bachelor's thesis</ins></a> characterizes linearly distributive categories with invertible distributors as shift-monoidal categories up to Frobenius linearly distributive equivalence. </li>
 <li> My <a href="https://drive.google.com/file/d/1gj5UtUiXkceE_ALid8IYQCv4w3LK3G4J/view?usp=sharing"><ins>master's thesis</ins></a> uses surface diagrams to study Frobenius algebras in linearly distributive categories, Hopf monads, Hopf algebroids, Hopf adjunctions, and Frobenius-Schur indicators for pivotal Grothendieck-Verdier categories. </li>
 </ul>
 </details>
