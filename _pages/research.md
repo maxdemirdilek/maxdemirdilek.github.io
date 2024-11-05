@@ -18,7 +18,7 @@ Currently, I am working on Grothendieck-Verdier categories. These are monoidal c
 </ul>
 </details>
 
-<details><summary><h6 style="display:inline-block"><span class="font-weight-bold">Surface diagrams for Grothendieck-Verdier categories</span></h6></summary>
+<details><summary><h6 style="display:inline-block"><span class="font-weight-bold">Very very very very very very very long title</span></h6></summary>
 Some files for the proof assistant homotopy.io:
 <ul>
 <li> The signature of <a href="/assets/pdf/Monoidal_categories.hom" download="Monoidal_categories.hom">monoidal categories</a>.</li>
