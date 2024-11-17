@@ -8,7 +8,7 @@ nav_order: 4
 #display_categories: [work, fun]
 horizontal: false
 ---
-I am currently working on Grothendieck-Verdier categories, also known as star-autonomous categories. These are monoidal categories with a duality structure that is more general than rigidity. Grothendieck-Verdier categories occur as representation categories of vertex operator algebras. This has been my motivation for studying them.
+I am currently working on Grothendieck-Verdier categories. These are monoidal categories with a duality structure that is more general than rigidity. Grothendieck-Verdier categories occur as representation categories of vertex operator algebras. This has been my motivation for studying them.
 
 <details>
 <summary><h6 style="display:inline"><span class="font-weight-bold">Theses</span></h6></summary>
