@@ -18,7 +18,7 @@ I am a PhD student in mathematics at the University of Hamburg. I am supervised 
 
 My mathematical research interests are in algebra, quantum topology and in applications of higher category theory to representation theory.
 
-# My [<ins> CV</ins>](assets/pdf/Demirdilek_CV.pdf).  
+#My [<ins> CV</ins>](assets/pdf/Demirdilek_CV.pdf).  
 
 <h6><span class="font-weight-bold">Contact information</span></h6>
 
