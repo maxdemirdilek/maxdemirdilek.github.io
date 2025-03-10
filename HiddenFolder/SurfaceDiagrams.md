@@ -2,7 +2,7 @@
 layout: page
 title: Surface diagrams for Grothendieck-Verdier categories
 permalink: /Research/SurfaceDiagrams
-nav: true
+nav: false
 nav_order: 4
 #display_categories: [work, fun]
 horizontal: false
