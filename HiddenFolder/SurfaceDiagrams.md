@@ -7,7 +7,8 @@ nav_order: 4
 #display_categories: [work, fun]
 horizontal: false
 ---
-
+Some additional files for the article *Surface Diagrams for Frobenius Algebras and Frobenius-Schur Indicators in Grothendieck-Verdier Categories*:
+<ul>
 Some files for the proof assistant homotopy.io:
 <ul>
 <li> The signature of <a href="/assets/pdf/Monoidal_categories.hom" download="Monoidal_categories.hom">monoidal categories</a>.</li>
@@ -19,7 +20,7 @@ Some files for the proof assistant homotopy.io:
 To use them, import the downloaded files into the beta version of <a href="https://beta.homotopy.io"><ins>homotopy.io</ins></a>. Homotopy.io is a web-based proof assistant for finitely-presented globular n-categories.
 <br>
 <br>
-Some STL files for surface diagrams from the article *Surface Diagrams for Frobenius Algebras and Frobenius-Schur Indicators in Grothendieck-Verdier Categories*:
+Some STL files for surface diagrams:
 <ul>
 <li> <a href="/assets/pdf/tuning_fork.stl" download="tuning_fork.stl">Monoidal tuning fork</a>.</li>
 <li> <a href="/assets/pdf/Left_unitor.stl" download="Left_unitor.stl">Left unitor</a>.</li>
