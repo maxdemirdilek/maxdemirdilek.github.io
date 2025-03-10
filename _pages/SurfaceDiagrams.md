@@ -9,6 +9,7 @@ horizontal: false
 ---
 Some additional files for the article *Surface Diagrams for Frobenius Algebras and Frobenius-Schur Indicators in Grothendieck-Verdier Categories*:
 <br>
+<br>
 Some files for the proof assistant homotopy.io:
 <ul>
 <li> The signature of <a href="/assets/pdf/Monoidal_categories.hom" download="Monoidal_categories.hom">monoidal categories</a>.</li>
