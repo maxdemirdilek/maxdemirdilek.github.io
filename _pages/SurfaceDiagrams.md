@@ -1,13 +1,13 @@
 ---
 layout: page
-title: Some surface diagrams
+title: STL and HOM files
 permalink: /Research/SurfaceDiagrams
 nav: false
 nav_order: 4
 #display_categories: [work, fun]
 horizontal: false
 ---
-Additional files for the article *Surface Diagrams for Frobenius Algebras and Frobenius-Schur Indicators in Grothendieck-Verdier Categories*:
+Files for the paper *Surface Diagrams for Frobenius Algebras and Frobenius-Schur Indicators in Grothendieck-Verdier Categories*:
 <br>
 <br>
 Some files for the proof assistant homotopy.io:
