@@ -1,13 +1,13 @@
 ---
 layout: page
-title: Surface diagrams for Grothendieck-Verdier categories
+title: Some surface diagrams
 permalink: /Research/SurfaceDiagrams
 nav: false
 nav_order: 4
 #display_categories: [work, fun]
 horizontal: false
 ---
-Some additional files for the article *Surface Diagrams for Frobenius Algebras and Frobenius-Schur Indicators in Grothendieck-Verdier Categories*:
+Additional files for the article *Surface Diagrams for Frobenius Algebras and Frobenius-Schur Indicators in Grothendieck-Verdier Categories*:
 <br>
 <br>
 Some files for the proof assistant homotopy.io:
