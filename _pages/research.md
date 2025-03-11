@@ -11,7 +11,6 @@ horizontal: false
 I am currently working on Grothendieck-Verdier categories. These are monoidal categories with a duality structure that is more general than rigidity. Grothendieck-Verdier categories occur as representation categories of vertex operator algebras. This has been my motivation for studying them.
 
 <summary><h6 style="display:inline"><span class="font-weight-bold">Publications</span></h6></summary>
-<br>
 To be updated.
 <br>  
 <summary><h6 style="display:inline"><span class="font-weight-bold">Theses</span></h6></summary>
