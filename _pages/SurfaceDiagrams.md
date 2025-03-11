@@ -38,7 +38,7 @@ Some STL files for surface diagrams:
 </ul>
 Display your downloaded STL files here:
 <br>
-<iframe id="vs_iframe" src="https://www.viewstl.com/?embedded" style="border:0;margin:0;width:100%;height:100%;"></iframe>
+<iframe id="vs_iframe" src="https://www.viewstl.com/?embedded" style="border:0;margin:0;width:50%;height:100%;"></iframe>
 <br>
 I created the STL files with homotopy.io. Unfortunately, the STL file format does not support colors. Thus, the files for the right and left distributor are also those for the associator and its inverse.
 <br>
