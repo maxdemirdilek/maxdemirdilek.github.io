@@ -14,7 +14,8 @@ I am currently working on Grothendieck-Verdier categories. These are monoidal ca
 To be updated.
 <br>
 <ul>
-<li> <a href="https://drive.google.com/file/d/13EyI9eTgfvTnlHWxnKYQZ2IcJ5FZeQFS/view?usp=sharing"><ins>Surface Diagrams for Frobenius Algebras and Frobenius-Schur Indicators in Grothendieck-Verdier Categories.</ins></a> With <a href="https://www.math.uni-hamburg.de/home/schweigert/">Christoph Schweigert</a>. See also the <a href="https://maxdemirdilek.github.io/Research/SurfaceDiagrams">additional STL and HOM files</a> and the <a href="/assets/pdf/Addendum.pdf">addendum</a>.</li>
+<li> <a href="https://drive.google.com/file/d/13EyI9eTgfvTnlHWxnKYQZ2IcJ5FZeQFS/view?usp=sharing"><ins>Surface Diagrams for Frobenius Algebras and Frobenius-Schur Indicators in Grothendieck-Verdier Categories.</ins></a><br>
+With <a href="https://www.math.uni-hamburg.de/home/schweigert/">Christoph Schweigert</a>. See also the <a href="https://maxdemirdilek.github.io/Research/SurfaceDiagrams">additional STL and HOM files</a> and the <a href="/assets/pdf/Addendum.pdf">addendum</a>.</li>
 </ul>
 <br>  
 <summary><h6 style="display:inline"><span class="font-weight-bold">Theses</span></h6></summary>
