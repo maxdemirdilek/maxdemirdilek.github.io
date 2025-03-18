@@ -7,7 +7,7 @@ nav_order: 4
 #display_categories: [work, fun]
 horizontal: false
 ---
-Files for the paper <a href="/assets/pdf/Monoidal_categories.hom" download="Monoidal_categories.hom">*Surface Diagrams for Frobenius Algebras and Frobenius-Schur Indicators in Grothendieck-Verdier Categories*</a>.
+Files for the paper <a href="https://arxiv.org/abs/2503.13325">Surface Diagrams for Frobenius Algebras and Frobenius-Schur Indicators in Grothendieck-Verdier Categories</a>.
 <br>
 <br>
 Some files for the proof assistant homotopy.io:
