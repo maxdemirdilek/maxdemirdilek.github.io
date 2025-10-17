@@ -11,8 +11,6 @@ horizontal: false
 I am currently working on Grothendieck-Verdier categories. These are monoidal categories with a duality structure that is more general than rigidity. Grothendieck-Verdier categories occur as representation categories of vertex operator algebras. This has been my motivation for studying them.
 
 <summary><h6 style="display:inline"><span class="font-weight-bold">Publications</span></h6></summary>
-To be updated.
-<br>
 <ul>
 <li> <a href="https://arxiv.org/abs/2503.13325"><ins>Surface Diagrams for Frobenius Algebras and Frobenius-Schur Indicators in Grothendieck-Verdier Categories.</ins></a><br>
 Preprint. With <a href="https://www.math.uni-hamburg.de/home/schweigert/">Christoph Schweigert</a>. See also the <a href="https://maxdemirdilek.github.io/Research/SurfaceDiagrams">additional STL and HOM files</a> and the <a href="/assets/pdf/Addendum.pdf">addendum</a>.</li>
