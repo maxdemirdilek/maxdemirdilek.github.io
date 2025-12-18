@@ -14,7 +14,7 @@ news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
-I am a second-year PhD student in mathematics at the University of Hamburg, supervised by [<ins>Christoph Schweigert</ins>](https://www.math.uni-hamburg.de/home/schweigert/) and part of the [<ins>Collaborative Research Center 1624</ins>](https://www.sfb1624.uni-hamburg.de).
+I am a PhD student in mathematics at the University of Hamburg, supervised by [<ins>Christoph Schweigert</ins>](https://www.math.uni-hamburg.de/home/schweigert/) and part of the [<ins>Collaborative Research Center 1624</ins>](https://www.sfb1624.uni-hamburg.de).
 
 My mathematical research interests are in algebra, quantum topology and in applications of higher category theory to representation theory.
 
