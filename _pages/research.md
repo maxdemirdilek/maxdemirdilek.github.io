@@ -17,7 +17,7 @@ I am currently working on Grothendieck-Verdier categories. These are monoidal ca
 <br>
 <summary><h6 style="display:inline"><span class="font-weight-bold">Miscellaneous notes</span></h6></summary>
 <ul>
-<li> <a href="/assets/pdf/Bases_in_standard_categories.pdf"><ins>Bases in standard categories.</ins></a> Notes for a talk in a reading seminar on highest weight categories and tilting theory at the University of Hamburg. January 2023. Based on the article <i>Cellularity of endomorphism algebras of tilting objects</i> by Gwyn Bellamy and Ulrich Thiel. </li>
+<li> <a href="/assets/pdf/Bases_in_standard_categories.pdf"><ins>Bases in standard categories.</ins></a> Notes for a reading seminar talk on highest weight categories and tilting theory at the University of Hamburg. January 2023. Based on the paper <i>Cellularity of endomorphism algebras of tilting objects</i> by Gwyn Bellamy and Ulrich Thiel. </li>
 <li><a href="/assets/pdf/The_Jacobson_density_theorem.pdf"><ins>What is dense about the Jacobson density theorem?</ins></a> A short note explaining the name density theorem, using some elementary topology.</li>
 </ul>
 <br>
