@@ -17,7 +17,7 @@ I am currently working on Grothendieck-Verdier categories. These are monoidal ca
 <br>
 <summary><h6 style="display:inline"><span class="font-weight-bold">Miscellaneous notes</span></h6></summary>
 <ul>
-<li> <a href="/assets/pdf/Bases_in_standard_categories.pdf"><ins>Bases in standard categories.</ins></a> Notes for a talk in a seminar on highest weight categories and tilting theory. University of Hamburg. January 2023</li>
+<li> <a href="/assets/pdf/Bases_in_standard_categories.pdf"><ins>Bases in standard categories.</ins></a> Notes for a talk in a seminar on highest weight categories and tilting theory. University of Hamburg. January 2023.</li>
 </ul>
 <br>
 <summary><h6 style="display:inline"><span class="font-weight-bold">Theses</span></h6></summary>
