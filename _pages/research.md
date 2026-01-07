@@ -14,7 +14,12 @@ I am currently working on Grothendieck-Verdier categories. These are monoidal ca
 <ul>
 <li> <a href="https://arxiv.org/abs/2503.13325"><ins>Surface Diagrams for Frobenius Algebras and Frobenius-Schur Indicators in Grothendieck-Verdier Categories.</ins></a><br> With <a href="https://www.math.uni-hamburg.de/home/schweigert/">Christoph Schweigert</a>. To appear in <i>Higher Structures</i>. See also the <a href="https://maxdemirdilek.github.io/Research/SurfaceDiagrams">additional STL and HOM files</a> and the <a href="/assets/pdf/Addendum.pdf">addendum</a>.</li>
 </ul>
-<br>  
+<br>
+<summary><h6 style="display:inline"><span class="font-weight-bold">Miscellaneous notes</span></h6></summary>
+<ul>
+<li> <a href="/assets/pdf/Bases_in_standard_categories.pdf"><ins>Bases in standard categories.</ins></a><br> Notes for a talk in a seminar on highest weight categories and tilting theory. University of Hamburg. January 2023</li>
+</ul>
+<br>
 <summary><h6 style="display:inline"><span class="font-weight-bold">Theses</span></h6></summary>
 <ul>
 <li> My <a href="https://drive.google.com/file/d/13EyI9eTgfvTnlHWxnKYQZ2IcJ5FZeQFS/view?usp=sharing"><ins>bachelor's thesis</ins></a> characterizes linearly distributive categories with invertible distributors as shift monoidal categories up to Frobenius linearly distributive equivalence. </li>
