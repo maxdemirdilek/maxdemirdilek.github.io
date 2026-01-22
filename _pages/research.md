@@ -12,6 +12,11 @@ I am currently working on Grothendieck-Verdier categories. These are monoidal ca
 
 <summary><h6 style="display:inline"><span class="font-weight-bold">Publications</span></h6></summary>
 <ul>
+<li> <a href="https://arxiv.org/abs/2601.14812">
+  <ins>A lifting theorem for Grothendieck-Verdier categories.
+  </ins></a>
+<br> Preprint. 
+</li>
 <li> <a href="https://arxiv.org/abs/2503.13325"><ins>Surface Diagrams for Frobenius Algebras and Frobenius-Schur Indicators in Grothendieck-Verdier Categories.</ins></a><br> With <a href="https://www.math.uni-hamburg.de/home/schweigert/">Christoph Schweigert</a>. To appear in <i>Higher Structures</i>. See also the <a href="https://maxdemirdilek.github.io/Research/SurfaceDiagrams">additional STL and HOM files</a> and the <a href="/assets/pdf/Addendum.pdf">addendum</a>.</li>
 </ul>
 <br>
