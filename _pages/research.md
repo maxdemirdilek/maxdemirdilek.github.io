@@ -21,7 +21,8 @@ I am currently working on Grothendieck-Verdier categories. These are monoidal ca
 <summary><h6 style="display:inline"><span class="font-weight-bold">Theses</span></h6></summary>
 <ul>
 <li> My <a href="https://drive.google.com/file/d/13EyI9eTgfvTnlHWxnKYQZ2IcJ5FZeQFS/view?usp=sharing"><ins>bachelor's thesis</ins></a> characterizes linearly distributive categories with invertible distributors as shift monoidal categories up to Frobenius linearly distributive equivalence. </li>
-<li> My <a href="https://drive.google.com/file/d/1gj5UtUiXkceE_ALid8IYQCv4w3LK3G4J/view?usp=sharing"><ins>master's thesis</ins></a> uses surface diagrams to study Frobenius algebras in linearly distributive categories, Hopf monads, Hopf algebroids, Hopf adjunctions, and Frobenius-Schur indicators for pivotal Grothendieck-Verdier categories. </li>
+<li> My <a href="https://drive.google.com/file/d/1gj5UtUiXkceE_ALid8IYQCv4w3LK3G4J/view?usp=sharing"><ins>master's thesis</ins></a> uses surface diagrams to study Frobenius algebras in linearly distributive categories, Hopf monads, Hopf algebroids, Hopf adjunctions, and Frobenius-Schur indicators for pivotal Grothendieck-Verdier categories. <a href="https://www.qu.uni-hamburg.de/research/highlights/26-03-16-bpa-demirdilek.html"><ins>Here</ins></a> is a popular science summary of some of the work from my master’s thesis.
+</li>
 </ul>
 <br>
 <summary><h6 style="display:inline"><span class="font-weight-bold">Miscellaneous notes</span></h6></summary>
