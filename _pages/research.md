@@ -13,7 +13,7 @@ I am currently working on Grothendieck-Verdier categories. These are monoidal ca
 <summary><h6 style="display:inline"><span class="font-weight-bold">Publications and Preprints</span></h6></summary>
 <ul>
   <li> <a href="https://arxiv.org/abs/2605.03113">
-  <ins>Linearly distributive coherence in the absence of units.</ins></a> Preprint. With With <a href="https://www.math.uni-hamburg.de/home/reiher/">Christian Reiher</a> and <a href="https://www.math.uni-hamburg.de/home/schweigert/">Christoph Schweigert</a>
+  <ins>Linearly distributive coherence in the absence of units.</ins></a> Preprint. With <a href="https://www.math.uni-hamburg.de/home/reiher/">Christian Reiher</a> and <a href="https://www.math.uni-hamburg.de/home/schweigert/">Christoph Schweigert</a>
 </li>
 <li> <a href="https://arxiv.org/abs/2601.14812">
   <ins>A lifting theorem for Grothendieck-Verdier categories.</ins></a> Preprint. 
