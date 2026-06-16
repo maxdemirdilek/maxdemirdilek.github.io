@@ -13,12 +13,12 @@ I am currently working on Grothendieck-Verdier categories. These are monoidal ca
 <summary><h6 style="display:inline"><span class="font-weight-bold">Publications and Preprints</span></h6></summary>
 <ul>
   <li> <a href="https://arxiv.org/abs/2605.03113">
-  <ins>Linearly distributive coherence in the absence of units.</ins></a> With <a href="https://www.math.uni-hamburg.de/home/reiher/">Christian Reiher</a> and <a href="https://www.math.uni-hamburg.de/home/schweigert/">Christoph Schweigert</a>. Preprint.
+  <ins>Linearly distributive coherence in the absence of units.</ins></a> With <a href="https://www.math.uni-hamburg.de/home/reiher/">Christian Reiher</a> and <a href="https://www.math.uni-hamburg.de/home/schweigert/">Christoph Schweigert</a>. Preprint. Submitted.
 </li>
 <li> <a href="https://arxiv.org/abs/2601.14812">
-  <ins>A lifting theorem for Grothendieck-Verdier categories.</ins></a> Preprint. 
+  <ins>A lifting theorem for Grothendieck-Verdier categories.</ins></a> Preprint. Accepted for publication in <i>Advances in Mathematics</i>.
 </li>
-<li> <a href="https://arxiv.org/abs/2503.13325"><ins>Surface Diagrams for Frobenius Algebras and Frobenius-Schur Indicators in Grothendieck-Verdier Categories.</ins></a> With <a href="https://www.math.uni-hamburg.de/home/schweigert/">Christoph Schweigert</a>. To appear in <i>Higher Structures</i>. See also the <a href="https://maxdemirdilek.github.io/Research/SurfaceDiagrams">additional STL and HOM files</a> and the <a href="/assets/pdf/Addendum.pdf">addendum</a>.</li>
+<li> <a href="https://arxiv.org/abs/2503.13325"><ins>Surface Diagrams for Frobenius Algebras and Frobenius-Schur Indicators in Grothendieck-Verdier Categories.</ins></a> With <a href="https://www.math.uni-hamburg.de/home/schweigert/">Christoph Schweigert</a>. Preprint. Accepted for publication in <i>Higher Structures</i>. See also the <a href="https://maxdemirdilek.github.io/Research/SurfaceDiagrams">additional STL and HOM files</a> and the <a href="/assets/pdf/Addendum.pdf">addendum</a>.</li>
 
 <a href="https://www.qu.uni-hamburg.de/research/highlights/2026/26-03-16-bpa-demirdilek.html"><ins>Here</ins></a> is a popular science summary of some of the paper.
 </ul>
