@@ -16,7 +16,7 @@ I am currently working on Grothendieck–Verdier categories. These are monoidal 
   <ins>Linearly distributive coherence in the absence of units.</ins></a> With <a href="https://www.math.uni-hamburg.de/home/reiher/">Christian Reiher</a> and <a href="https://www.math.uni-hamburg.de/home/schweigert/">Christoph Schweigert</a>. Preprint. Submitted.
 </li>
 <li> <a href="https://authors.elsevier.com/sd/article/S0001870826003361">
-  <ins>Grothendieck–Verdier functors.</ins></a> <i>Advances in Mathematics</i> 502, Part A (2026).
+  <ins>Grothendieck–Verdier functors.</ins></a> <i>Advances in Mathematics</i>, 502, Part A (2026).
 </li>
 <li> <a href="https://arxiv.org/abs/2503.13325"><ins>Surface Diagrams for Frobenius Algebras and Frobenius-Schur Indicators in Grothendieck-Verdier Categories.</ins></a> With <a href="https://www.math.uni-hamburg.de/home/schweigert/">Christoph Schweigert</a>. <i>Higher Structures</i> (accepted). See also the <a href="https://maxdemirdilek.github.io/Research/SurfaceDiagrams">additional STL and HOM files</a> and the <a href="/assets/pdf/Addendum.pdf">addendum</a>.
 <a href="https://www.qu.uni-hamburg.de/research/highlights/2026/26-03-16-bpa-demirdilek.html"><ins>Here</ins></a> is a popular science summary of some of the paper.
